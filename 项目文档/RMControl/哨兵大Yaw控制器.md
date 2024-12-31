@@ -1,0 +1,16 @@
+- 设备
+	- Can x2
+	- USB-IMU 裁判系统 DBUS
+- 集线器功能
+	- 雷达分线
+		- 雷达与minipc共用19v供电
+	- 小头供电接口 x2
+		- chassis供电
+		- gimbal供电
+	- 计算设备供电
+		- minipc x2 -> 19v
+		- 雷达 x2 -> 19v
+	- SHOOT供电
+		- 拨弹轮1 -> can1
+		- 拨弹轮2 -> can2
+	- 裁判系统转接 x2
