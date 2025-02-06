@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "31a6859418b34ad8",
+        "id": "783e11b35c7264df",
         "type": "tabs",
         "children": [
           {
-            "id": "8acc705859e236fa",
+            "id": "b32f1a7c479b0621",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数学辅修笔记/高等代数/矩阵.md",
+                "file": "托福笔记/写作/Lecture1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "矩阵"
+              "title": "Lecture1"
             }
           }
         ]
@@ -163,54 +163,53 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "8acc705859e236fa",
+  "active": "694ab9b96105620e",
   "lastOpenFiles": [
+    "托福笔记/写作/Lecture2.md",
+    "托福笔记/images/Pasted image 20250206205722.png",
+    "托福笔记/images/Pasted image 20250206205051.png",
+    "托福笔记/images/Pasted image 20250206204845.png",
+    "托福笔记/images/Pasted image 20250206204754.png",
+    "托福笔记/images/Pasted image 20250206204234.png",
+    "托福笔记/images/Pasted image 20250206203327.png",
+    "托福笔记/images/Pasted image 20250206203108.png",
+    "托福笔记/images/Pasted image 20250206202933.png",
+    "托福笔记/images/Pasted image 20250206202850.png",
+    "托福笔记/写作/Lecture1.md",
+    "项目文档/RMControl/哨兵接线.md",
+    "项目文档/RMControl/哨兵大Yaw控制器.md",
+    "项目文档/RMControl/步兵接线.md",
+    "项目文档/RMControl/步兵-英雄通用控制器.md",
+    "托福笔记/images/Pasted image 20250206201931.png",
+    "托福笔记/阅读/阅读基础.md",
+    "托福笔记/阅读/句子简化题.md",
+    "托福笔记/写作",
+    "test.html",
+    "test.txt",
+    "新建 文本文档.txt",
+    "托福笔记/images",
+    "数学辅修笔记/高等代数/矩阵.md",
+    "托福笔记/阅读",
+    "托福笔记",
     "数学辅修笔记/数学分析/数列极限.md",
     "数学辅修笔记/数学分析/数与方程.md",
-    "数学辅修笔记/高等代数/矩阵.md",
     "数学辅修笔记/高等代数/方程组.md",
     "数学辅修笔记/高等代数/多项式.md",
     "数学辅修笔记/高等代数/二次型.md",
     "数学辅修笔记/高等代数/行列式.md",
     "数学辅修笔记/复习计划.md",
     "数学辅修笔记/高等代数/未命名",
-    "images/Pasted Image 20241222002541_490.png",
-    "images/Pasted image 20241211031549.png",
     "创建链接.md",
     "欢迎.md",
     "images",
     "项目文档/光学动捕/算法开发记录/主动标记.md",
     "项目文档/RV1106-PCB/参考项目学习/模块图.md",
-    "images/Pasted Image 20241222002519_081.png",
-    "images/Pasted Image 20241222002503_148.png",
-    "images/Pasted Image 20241222002429_370.png",
-    "images/Pasted Image 20241222002215_263.png",
-    "images/Pasted Image 20241222002155_523.png",
-    "images/Pasted Image 20241222002130_590.png",
-    "images/Pasted Image 20241222002109_963.png",
-    "images/Pasted Image 20241222002023_565.png",
     "项目文档/RV1106-PCB/参考项目学习",
-    "项目文档/RV1106-PCB",
     "项目文档/光学动捕/算法开发记录/定位方法.md",
     "项目文档/vslam无人机/硬件结构.md",
     "高等代数.md",
-    "项目文档/RMControl/哨兵接线.md",
-    "项目文档/RMControl/步兵接线.md",
-    "项目文档/RMControl/步兵-英雄通用控制器.md",
-    "项目文档/RMControl/哨兵大Yaw控制器.md",
     "项目文档/硬件教程/硬件教程 - 使用makefile和openocd开发stm32单片机.md",
     "项目文档/硬件教程/现代化STM32教程_配图.md",
-    "项目文档/RMControl/Drawing 2024-12-11 22.50.21.excalidraw.md",
-    "Excalidraw/Drawing 2024-12-11 22.50.12.excalidraw.md",
-    "Excalidraw",
-    "项目文档/RMControl/Drawing 2024-12-09 15.40.32.excalidraw.md",
-    "项目文档/RMControl",
-    "项目文档/光学动捕/算法开发记录/定位方法.canvas",
-    "数学辅修笔记/images",
-    "项目文档/光学动捕/硬件开发记录",
-    "项目文档/光学动捕/算法开发记录",
-    "项目文档/光学动捕",
-    "数学辅修笔记/抽象代数/抽象代数基本概念.md",
-    "数学辅修笔记/抽象代数/Drawing 2024-12-09 00.31.17.excalidraw.md"
+    "项目文档/光学动捕/算法开发记录/定位方法.canvas"
   ]
 }
